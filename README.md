@@ -1,7 +1,5 @@
 # Weather Application 
 
-My first nodejs project.
-
 
 ```
 In the search button, we write the name of the city we want to know the instant weather forecast.
