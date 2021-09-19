@@ -1,0 +1,16 @@
+{
+  "name": "myweatherapp",
+  "version": "1.0.0",
+  "description": "my first nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html": "^1.0.0",
+    "request": "^2.88.2"
+  }
+}
